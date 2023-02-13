@@ -1,4 +1,4 @@
-Welcome to the github page of the regional climate model REMO. Originally developed at the Max-Planck-Institute for Meteorology, the model is nowadays further developed and maintained by the [Climate Service Center Germany](https://www.climate-service-center.de/) (GERICS) in Hamburg, Germany. For some more detailled informationa and documentation, please consider looking at
+Welcome to the github page of the regional climate model REMO. Originally developed at the Max-Planck-Institute for Meteorology, the model is nowadays further developed and maintained by the [Climate Service Center Germany](https://www.climate-service-center.de/) (GERICS) in Hamburg, Germany. For some more detailled information and documentation, please consider looking at
 
 * the [model repository](https://gitlab.dkrz.de/remo) at the DKRZ gitlab in Hamburg,
 * a short [model describtion](https://www.remo-rcm.de/059966/index.php.en),
