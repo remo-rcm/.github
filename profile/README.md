@@ -8,3 +8,5 @@ Welcome to the github page of the regional climate model REMO. Originally develo
 * or [current developments]( (https://www.remo-rcm.de/060257/index.php.en)) for improving REMO. 
 
 For information on how to use regional climate model data, please refer to the [EURO-CORDEX guidelines](https://data-guide.readthedocs.io) for the use of regional climate model data.
+
+If you want to stay updated and get involved, please also consider joining the [REMO mailinglist](https://www.listserv.dfn.de/sympa/subscribe/remo)!
